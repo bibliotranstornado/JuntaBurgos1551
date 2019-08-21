@@ -16,16 +16,22 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 164 777365468 3011712]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1566219407
+ModificationTime: 1566299328
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 92
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -35,6 +41,8 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+OS2CodePages: 80000013.00000000
+OS2UnicodeRanges: a400007f.1000824b.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
@@ -43,13 +51,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
-518 540 m 1
- 260 356 l 0
- 14 128 l 1025
 -992 688 m 0
  2080 688 l 1024
   Named: "x"
