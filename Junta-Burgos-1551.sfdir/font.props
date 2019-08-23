@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1566470567
+ModificationTime: 1566544281
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,15 +51,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 144 16 4
+WinInfo: 96 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
-1892 1236 m 1
- 71 18 l 9
- 272 264 l 1049
-50 447 m 1
- 1382 1248 l 1049
 -992 688 m 0
  2080 688 l 1024
   Named: "x"
