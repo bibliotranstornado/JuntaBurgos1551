@@ -2,7 +2,7 @@ StartChar: D
 Encoding: 68 68 14
 Width: 1012
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Image: 2140 432 2 6420 0 ffffffff -1366.87 1309.24 3.60296 3.60296 0

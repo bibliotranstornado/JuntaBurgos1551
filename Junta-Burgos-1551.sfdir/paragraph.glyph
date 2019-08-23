@@ -2,7 +2,7 @@ StartChar: paragraph
 Encoding: 182 182 15
 Width: 848
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Image: 2140 432 2 6420 0 ffffffff -510.87 1309.24 3.60296 3.60296 0
