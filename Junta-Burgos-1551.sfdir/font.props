@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1566544281
+ModificationTime: 1566550513
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -45,13 +45,13 @@ OS2CodePages: 80000013.00000000
 OS2UnicodeRanges: a400007f.1000824b.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: ISO8859-1
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 16 4
+WinInfo: 256 16 9
 BeginPrivate: 0
 EndPrivate
 Grid
