@@ -2,7 +2,7 @@ StartChar: D
 Encoding: 68 68 14
 Width: 1012
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Image: 2140 432 2 6420 0 ffffffff -1366.87 1309.24 3.60296 3.60296 0
@@ -46284,4 +46284,5 @@ SplineSet
  897 268 875.661667195 495.512112141 817 555 c 0
  675 699 536 632 351 654 c 24
 EndSplineSet
+Validated: 524325
 EndChar
