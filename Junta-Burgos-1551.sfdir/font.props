@@ -43,9 +43,11 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 OS2CodePages: 80000013.00000000
 OS2UnicodeRanges: a400007f.1000824b.00000000.00000000
+Lookup: 258 0 0 "kerning" { "kerning-1" [153,15,0] } []
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
