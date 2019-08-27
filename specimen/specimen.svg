@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="sample.svg">
+   sodipodi:docname="specimen.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8146907"
-     inkscape:cx="508.05059"
-     inkscape:cy="818.182"
+     inkscape:zoom="0.95367268"
+     inkscape:cx="423.50084"
+     inkscape:cy="509.87074"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="993"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -74,15 +74,35 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:275.69940186px;line-height:1000%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.43593442px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">ñ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1000%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="22.657415"
-       y="93.115074"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.9928"
+       y="110.59356"
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="22.657415"
-         y="93.115074"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332px;">ABCEDFGHIJLLMNÑOPQRSTUVWXYZ</tspan></text>
+         x="20.9928"
+         y="110.59356"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ABCEDFGHIJLLMNÑOPQRSTUVWXYZ</tspan><tspan
+         sodipodi:role="line"
+         x="20.9928"
+         y="117.56367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan149">abcedfghijllmnñopqrstuvwxyz</tspan><tspan
+         sodipodi:role="line"
+         x="20.9928"
+         y="123.91367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan151">1234567890</tspan><tspan
+         sodipodi:role="line"
+         x="20.9928"
+         y="130.88379"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan153">áéíóúÑü</tspan><tspan
+         sodipodi:role="line"
+         x="20.9928"
+         y="137.85391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan155">fi fl pro per de que</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot14"
@@ -130,5 +150,32 @@
          x="141.85078"
          y="72.195496"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Matriz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1000%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.304729"
+       y="107.84605"
+       id="text12-42"><tspan
+         sodipodi:role="line"
+         id="tspan10-9"
+         x="21.304729"
+         y="141.86568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.749855"
+       y="74.637207"
+       id="text12-0"><tspan
+         sodipodi:role="line"
+         x="20.749855"
+         y="74.637207"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan155-5">Enchiridion de los tiempos</tspan><tspan
+         sodipodi:role="line"
+         x="20.749855"
+         y="80.987213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:Junta-Burgos-1551;-inkscape-font-specification:'Junta-Burgos-1551, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan201">Alonso Venero</tspan></text>
   </g>
 </svg>
