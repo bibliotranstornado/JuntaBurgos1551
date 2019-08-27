@@ -2,7 +2,8 @@ StartChar: longs_t
 Encoding: 64261 64261 46
 Width: 658
 VWidth: 0
-Flags: HW
+Flags: W
+VStem: 59 127<51 204.058>
 LayerCount: 2
 Fore
 SplineSet
@@ -32,5 +33,5 @@ SplineSet
  187 796 181 185 186 154 c 0
  191 123 200 72 209 19 c 25
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

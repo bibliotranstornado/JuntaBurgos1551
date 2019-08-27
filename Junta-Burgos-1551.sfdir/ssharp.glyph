@@ -2,7 +2,9 @@ StartChar: ssharp
 Encoding: 223 223 48
 Width: 749
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 704 21G<603 603> 776 96<159.267 402.118>
+VStem: 37 124<303.174 499.952> 307 129<609.384 748>
 LayerCount: 2
 Fore
 SplineSet
@@ -36,5 +38,5 @@ SplineSet
  24 618 -48 608 -44 560 c 0
  -40 512 5 514 37 484 c 25
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar

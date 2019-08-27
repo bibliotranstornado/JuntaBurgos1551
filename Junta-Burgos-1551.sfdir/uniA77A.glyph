@@ -2,7 +2,9 @@ StartChar: uniA77A
 Encoding: 42874 42874 22
 Width: 634
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 140<264.101 379.07> 508 130<238.429 346.132>
+VStem: 13 216<236.505 358> 435 144<233.8 404.035>
 LayerCount: 2
 Fore
 SplineSet
@@ -23,5 +25,5 @@ SplineSet
  435 278 466.971241098 142.995321397 311 140 c 4
  178.518587701 137.455784758 230 405 229 408 c 13
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar

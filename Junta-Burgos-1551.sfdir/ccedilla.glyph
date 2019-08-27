@@ -2,7 +2,9 @@ StartChar: ccedilla
 Encoding: 231 231 55
 Width: 374
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -20 20<142 160>
+VStem: 142 18<-20 0>
 LayerCount: 2
 Fore
 SplineSet
@@ -38,5 +40,5 @@ SplineSet
  344.948242188 674 299 678 270 684 c 24
  239 691 191 707 191 707 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar

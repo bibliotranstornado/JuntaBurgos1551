@@ -2,7 +2,8 @@ StartChar: uniA75A
 Encoding: 42842 42842 30
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: W
+VStem: 480 216
 LayerCount: 2
 Fore
 SplineSet

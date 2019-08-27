@@ -2,7 +2,7 @@ StartChar: P
 Encoding: 80 80 58
 Width: 1096
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -60,5 +60,5 @@ SplineSet
  44.1337583015 577.650700664 0 619 0 666 c 27
 308 688 m 1024
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar

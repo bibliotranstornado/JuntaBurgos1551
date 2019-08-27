@@ -2,7 +2,8 @@ StartChar: colon
 Encoding: 58 58 56
 Width: 304
 VWidth: 0
-Flags: HW
+Flags: W
+VStem: 5 253<147.211 230.561 638.211 721.561>
 LayerCount: 2
 Fore
 SplineSet
@@ -33,5 +34,5 @@ SplineSet
  64 102 75 100 60 119 c 0
  37.3088325885 147.742145388 6 147 5 193 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
