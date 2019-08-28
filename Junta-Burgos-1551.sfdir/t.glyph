@@ -1,6 +1,6 @@
 StartChar: t
 Encoding: 116 116 49
-Width: 352
+Width: 376
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -25,5 +25,5 @@ SplineSet
  194 682 l 25
  134 713 l 25
 EndSplineSet
-Validated: 41
+Validated: 524329
 EndChar

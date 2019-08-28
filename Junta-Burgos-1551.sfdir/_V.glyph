@@ -2,7 +2,9 @@ StartChar: V
 Encoding: 86 86 80
 Width: 923
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 638 20G<505 543> 708 21G<392 435> 768 102<598.407 737>
+VStem: 682 150<372 598.304>
 LayerCount: 2
 Fore
 SplineSet
@@ -51,4 +53,5 @@ SplineSet
  690 250 l 25
  666 204 l 25
 EndSplineSet
+Validated: 524321
 EndChar
