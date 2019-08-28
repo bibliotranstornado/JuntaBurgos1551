@@ -2,7 +2,7 @@ StartChar: Q
 Encoding: 81 81 90
 Width: 1280
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 903 116<494.677 703.556>
 VStem: 105 142<602.826 711.527> 1005 130<464.615 615.707>
 LayerCount: 2
