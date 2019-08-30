@@ -2,7 +2,8 @@ StartChar: udieresis
 Encoding: 252 252 114
 Width: 520
 VWidth: 0
-Flags: HO
+HStem: 641 20G<310.714 370> 766 223.801
+VStem: 28 131<292.446 603> 258 166<519.055 605> 296 128<219 528.701>
 LayerCount: 2
 Fore
 Refer: 112 776 S 1 0 0 1 10.837 123.5 2
