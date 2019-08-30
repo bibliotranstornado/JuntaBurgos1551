@@ -1,0 +1,14 @@
+StartChar: acutecomb
+Encoding: 769 769 101
+Width: 0
+VWidth: 0
+LayerCount: 2
+Fore
+SplineSet
+146 733 m 1
+ 160 711 l 1
+ 278 804 l 5
+ 267 821 l 5
+ 146 733 l 1
+EndSplineSet
+EndChar

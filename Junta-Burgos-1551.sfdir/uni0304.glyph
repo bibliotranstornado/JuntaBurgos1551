@@ -1,5 +1,5 @@
-StartChar: macron
-Encoding: 175 175 53
+StartChar: uni0304
+Encoding: 772 772 100
 Width: 548
 VWidth: 0
 Flags: W
@@ -14,5 +14,4 @@ SplineSet
  453 810 399 721 274 721 c 0
  149 721 128 763 128 763 c 1
 EndSplineSet
-Validated: 1
 EndChar

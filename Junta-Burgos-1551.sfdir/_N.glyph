@@ -1,8 +1,8 @@
 StartChar: N
-Encoding: 78 78 68
+Encoding: 78 78 67
 Width: 1032
 VWidth: 0
-Flags: HWO
+Flags: W
 HStem: 603.4 193.6<34.056 105.931> 632 180.4<272.315 333.3> 759.601 134.199<661.733 778.517>
 VStem: 382 121<221.124 740.9>
 LayerCount: 2

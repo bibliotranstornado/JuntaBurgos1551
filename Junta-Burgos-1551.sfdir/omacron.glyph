@@ -1,0 +1,11 @@
+StartChar: omacron
+Encoding: 333 333 103
+Width: 598
+VWidth: 0
+HStem: 685 20G<203.075 222> 766 159<171.022 335.269>
+VStem: 96.2689 325
+LayerCount: 2
+Fore
+Refer: 100 772 N 1 0 0 1 -31.7311 45 2
+Refer: 0 111 N 1 0 0 1 0 0 3
+EndChar
