@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1567164997
+ModificationTime: 1567336840
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -47,12 +47,13 @@ Lookup: 258 0 0 "kerning" { "kerning-1" [153,15,0] } []
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 9
+WinInfo: 0 21 8
 BeginPrivate: 0
 EndPrivate
 Grid
