@@ -1,16 +1,13 @@
 * Junta Burgos 1551
-	[[README.es.md Español]] English
-	* Introduction
-		Digital recreation of the font used by the printer [[http://dbe.rah.es/biografias/49373/juan-de-junta Juan de Junta]], who was the agent in Spain of the Iunta family in Burgos in the middle of the XVI century.
+	Español [[README.md English]]
+	* Introducción
+		Recreación digital del tipo de letra usado por el impresor [[http://dbe.rah.es/biografias/49373/juan-de-junta Juan de Junta]], representante en España de la familia Iunta,  en Burgos a mediados del siglo XVI.
 
-		The samples were scanned from the book
-		''Enchiridion de los tiempos'' 
-		from  [[https://es.wikipedia.org/wiki/Alonso_Venero Alonso Venero]], 
-		printed by Junta in 1551.
+		Las muestras se han escaneado del libro ''Enchiridion de los tiempos'' de [[https://es.wikipedia.org/wiki/Alonso_Venero Alonso Venero]], impreso por Junta en 1551.
 
-		* Download
-			You can download from [[fonts/Junta-Burgos-1551-Matriz.otf here]].
-		* Style
+		* Descarga
+			Puedes descargarlo de [[fonts/Junta-Burgos-1551-Matriz.otf aquí]].
+		* Estilo
 			La tipografía está influida por el medio en el que se realiza. 
 			
 			Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
@@ -20,11 +17,11 @@
 			Con el punzón se grababa la matriz donde se fundía plomo que formaba los tipos de letra.
 			
 			Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
-	* References
+	* Referencias
 		- [[http://designwithfontforge.com/en-US/Introduction.html A book about how to create new typefaces using FontForge]]
 		- [[https://github.com/klepas/open-baskerville open-baskerville]]
 		- [[https://github.com/Anaphory/Jena1330 Jena1330]]
-	* Milestones
+	* Hitos
 		- o y n. Hecho
 		- videospan (letras que definen el estilo)
 		- minúsculas

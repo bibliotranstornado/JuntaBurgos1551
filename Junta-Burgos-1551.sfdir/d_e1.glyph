@@ -1,8 +1,10 @@
-StartChar: d_e
-Encoding: 121 -1 121
+StartChar: d_e1
+Encoding: 112 57344 59
 Width: 634
 VWidth: -36
-Flags: HWO
+Flags: W
+HStem: 671 21G<409.259 427.887> 903 20G<378 440>
+VStem: 411 157<238.82 430.546>
 LayerCount: 2
 Fore
 SplineSet
@@ -33,6 +35,5 @@ SplineSet
  177 526 137 530 99 551 c 4
  61 572 56 608 56 608 c 5
 EndSplineSet
-LCarets2: 1 0
-Ligature2: "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1" d e
+Comment: "ligadura para d+-e"
 EndChar

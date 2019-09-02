@@ -1,7 +1,9 @@
-all: README.md specimen/specimen.pdf
-
+all: README.md README.es.md specimen/specimen.pdf
 
 README.md: README.sec
+	sectxt.py --markdown $^ > $@
+
+README.es.md: README.es.sec
 	sectxt.py --markdown $^ > $@
 
 specimen/specimen.pdf: specimen/specimen.svg
