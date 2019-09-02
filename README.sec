@@ -1,14 +1,21 @@
 * Junta Burgos 1551
 	* Introducción
-		Recreación digital del tipo de letra usado por [[http://dbe.rah.es/biografias/49373/juan-de-junta Juan de Junta]] en Burgos a mediados del siglo XVI.
+		Recreación digital del tipo de letra usado por el impresor [[http://dbe.rah.es/biografias/49373/juan-de-junta Juan de Junta]], representante en España de la familia Iunta,  en Burgos a mediados del siglo XVI.
 
-		Basado en ''Enchiridion de los tiempos'' y en ''Primer Abecedario Spiritual''.
+		Las muestras se han escaneado del libro ''Enchiridion de los tiempos'' de [[https://es.wikipedia.org/wiki/Alonso_Venero Alonso Venero]], impreso por Junta en 1551.
 
+		* Descarga
+			Puedes descargarlo de [[fonts/Junta-Burgos-1551-Matriz.otf aquí]].
 		* Estilo
-			- ¿Copiamos las letras o las recreamos?
-			- ¿Resolvemos errores obvios?
-			- ¿Cómo lo habría hecho el grabador si no hubiera habido limitaciones técnicas?
-			- ¿Imitamos el estilo manuscrito?
+			La tipografía está influida por el medio en el que se realiza. 
+			
+			Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
+			
+			El grabador de punzones imitaba las formas del texto manuscrito pero estaba grabando los punzones de un material muy duro en un tamaño muy pequeño. La precisión era mucha para un trabajo manual, pero en los tipos pequeños se ven imperfecciones. 
+
+			Con el punzón se grababa la matriz donde se fundía plomo que formaba los tipos de letra.
+			
+			Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
 	* Referencias
 		- [[http://designwithfontforge.com/en-US/Introduction.html A book about how to create new typefaces using FontForge]]
 		- [[https://github.com/klepas/open-baskerville open-baskerville]]

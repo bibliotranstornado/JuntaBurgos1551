@@ -1,8 +1,8 @@
 StartChar: emacron
 Encoding: 275 275 109
 Width: 483
-VWidth: 0
-HStem: 774 159<243.022 407.269>
+VWidth: -36
+HStem: 738 159<243.022 407.269>
 VStem: 168.269 325
 LayerCount: 2
 Fore

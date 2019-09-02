@@ -1,9 +1,9 @@
 StartChar: imacron
 Encoding: 299 299 111
 Width: 286
-VWidth: 0
-HStem: 766 159<54.8083 219.055>
-VStem: -19.9447 325 33.6608 130.339<180 442.834>
+VWidth: -36
+HStem: 730 159<54.808 219.055>
+VStem: -19.945 325 33.6611 130.339<144 406.834>
 LayerCount: 2
 Fore
 Refer: 100 772 N 1 0 0 1 -147.945 45 2

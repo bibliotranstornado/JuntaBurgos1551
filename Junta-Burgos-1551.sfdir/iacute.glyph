@@ -1,8 +1,8 @@
 StartChar: iacute
 Encoding: 237 237 105
 Width: 286
-VWidth: 0
-VStem: 33.6608 130.339<180 442.834>
+VWidth: -36
+VStem: 33.6611 130.339<144 406.834>
 LayerCount: 2
 Fore
 Refer: 101 769 N 1 0 0 1 -36.3339 55 2
