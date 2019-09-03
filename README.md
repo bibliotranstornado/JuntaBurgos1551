@@ -14,7 +14,9 @@ You can download from [here](fonts/Junta-Burgos-1551-Matriz.otf).
 
 
 ### Style
-La tipografía está influida por el medio en el que se realiza. 
+The aim is the creation of a type font that imitate the style of the books printed with Rotunda Script.
+
+Writing tools and materials affects shape of the letters.
 
 Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
 
@@ -30,6 +32,8 @@ Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
 *  [A book about how to create new typefaces using FontForge](http://designwithfontforge.com/en-US/Introduction.html)
 *  [open-baskerville](https://github.com/klepas/open-baskerville)
 *  [Jena1330](https://github.com/Anaphory/Jena1330)
+*  [An introduction to OpenType Substitution Features](https://ilovetypography.com/OpenType/opentype-features.html)
+*  [FontForge editexample](https://fontforge.github.io/en-US/tutorials/editexample/)
 
 ## Milestones
 *  o y n. Hecho

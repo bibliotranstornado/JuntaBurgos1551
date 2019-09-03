@@ -4,14 +4,17 @@ Español [English](README.md)
 ## Introducción
 Recreación digital del tipo de letra usado por el impresor [Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), representante en España de la familia Iunta,  en Burgos a mediados del siglo XVI.
 
-Las muestras se han escaneado del libro *Enchiridion de los tiempos* de [Alonso Venero](https://es.wikipedia.org/wiki/Alonso_Venero), impreso por Junta en 1551.
+Las muestras se han escaneado del libro
+*Enchiridion de los tiempos*
+de [Alonso Venero](https://es.wikipedia.org/wiki/Alonso_Venero), 
+impreso por Junta en 1551.
 
 ### Descarga
 Puedes descargarlo de [aquí](fonts/Junta-Burgos-1551-Matriz.otf).
 
 
 ### Estilo
-La tipografía está influida por el medio en el que se realiza. 
+El objetivo es diseñar un tipo de letra que imite el aspecto que tiene el texto de los libros impresos con letra rotunda.
 
 Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
 
@@ -27,6 +30,8 @@ Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
 *  [A book about how to create new typefaces using FontForge](http://designwithfontforge.com/en-US/Introduction.html)
 *  [open-baskerville](https://github.com/klepas/open-baskerville)
 *  [Jena1330](https://github.com/Anaphory/Jena1330)
+*  [An introduction to OpenType Substitution Features](https://ilovetypography.com/OpenType/opentype-features.html)
+*  [FontForge editexample](https://fontforge.github.io/en-US/tutorials/editexample/)
 
 ## Hitos
 *  o y n. Hecho
