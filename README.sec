@@ -16,13 +16,13 @@
 
 			Writing tools and materials affects shape of the letters.
 			
-			Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
+			Therefore if you write with a nib in a manuscript the shape of the strokes have different sizes.
 			
-			El grabador de punzones imitaba las formas del texto manuscrito pero estaba grabando los punzones de un material muy duro en un tamaño muy pequeño. La precisión era mucha para un trabajo manual, pero en los tipos pequeños se ven imperfecciones. 
+			The engraver who made awls imitated the shapes of the manuscript text, but he was limited by the small proportions of the awls and its hardness. Thus the awls were ''imperfects''.
 
-			Con el punzón se grababa la matriz donde se fundía plomo que formaba los tipos de letra.
+			With the awls were made the cast, and here the molten lead was transform into metal types.
 			
-			Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
+			The metal types were worned out by the use.
 	* References
 		- [[http://designwithfontforge.com/en-US/Introduction.html A book about how to create new typefaces using FontForge]]
 		- [[https://github.com/klepas/open-baskerville open-baskerville]]

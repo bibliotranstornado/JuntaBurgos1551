@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1567599475
+ModificationTime: 1567608458
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,10 +44,41 @@ OS2Vendor: 'PfEd'
 OS2CodePages: 80000013.00000000
 OS2UnicodeRanges: a400007f.1000824b.00000000.00000000
 Lookup: 4 0 0 "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0" { "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1"  } ['hlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Interletraje horizontal in Latin lookup 1" { "'kern' Interletraje horizontal in Latin lookup 1-1" [153,0,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Interletraje horizontal in Latin lookup 1" { "'kern' Interletraje horizontal in Latin lookup tras j" [153,0,2] "'kern' Interletraje horizontal in Latin lookup antes de b" [153,0,2] "'kern' Interletraje horizontal in Latin lookup f y s larga" [153,0,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 3 16 "'kern' Interletraje horizontal in Latin lookup 1-1"
+KernClass2: 2 10 "'kern' Interletraje horizontal in Latin lookup tras j"
+ 1 j
+ 82 c d g i m n o p r s ccedilla eacute iacute oacute dotlessi uniA750 uniA752 uniA753
+ 31 e ntilde uacute emacron omacron
+ 3 j z
+ 31 q t v w amacron uniA751 uniA75B
+ 1 u
+ 8 x aacute
+ 1 y
+ 17 udieresis imacron
+ 7 umacron
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -113 {} -117 {} -120 {} -107 {} -124 {} -154 {} -128 {} -27 {} -28 {}
+KernClass2: 15 4 "'kern' Interletraje horizontal in Latin lookup antes de b"
+ 3 a m
+ 62 b h p s u v w y oacute omacron uniA750 uniA751 uniA752 uniA753
+ 14 c g o ccedilla
+ 18 e r t x z dotlessi
+ 1 i
+ 1 j
+ 1 k
+ 1 n
+ 1 q
+ 16 aacute udieresis
+ 6 eacute
+ 20 iacute ntilde uacute
+ 23 amacron emacron imacron
+ 7 umacron
+ 1 b
+ 1 h
+ 1 k
+ 0 {} 0 {} 0 {} 0 {} 0 {} -93 {} 0 {} -26 {} 0 {} -104 {} -13 {} -56 {} 0 {} -80 {} 0 {} -16 {} 0 {} -69 {} -12 {} -53 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} -98 {} -24 {} -58 {} 0 {} -80 {} 0 {} -28 {} 0 {} -88 {} -15 {} -47 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -13 {} -43 {}
+KernClass2: 3 16 "'kern' Interletraje horizontal in Latin lookup f y s larga"
  1 f
  5 longs
  12 a d q aacute
