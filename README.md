@@ -1,5 +1,6 @@
 # Junta Burgos 1551
 [Español](README.es.md) English
+![Deo gracias.](samples/f_clxxxviii_v_titulo.jpg)
 
 ## Introduction
 Digital recreation of the font used by the printer [Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), who was the agent in Spain of the Iunta family in Burgos in the middle of the XVI century.

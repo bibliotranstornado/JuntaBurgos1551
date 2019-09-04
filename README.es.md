@@ -1,5 +1,6 @@
 # Junta Burgos 1551
 Español [English](README.md)
+![Deo gracias.](samples/f_clxxxviii_v_titulo.jpg)
 
 ## Introducción
 Recreación digital del tipo de letra usado por el impresor [Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), representante en España de la familia Iunta,  en Burgos a mediados del siglo XVI.

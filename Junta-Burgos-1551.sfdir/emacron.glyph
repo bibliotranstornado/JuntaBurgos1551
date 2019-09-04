@@ -1,7 +1,8 @@
 StartChar: emacron
 Encoding: 88 275 109
-Width: 483
+Width: 459
 VWidth: -36
+Flags: W
 HStem: 738 159<243.022 407.269>
 VStem: 168.269 325
 LayerCount: 2

@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1567443240
+ModificationTime: 1567599475
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,16 +44,35 @@ OS2Vendor: 'PfEd'
 OS2CodePages: 80000013.00000000
 OS2UnicodeRanges: a400007f.1000824b.00000000.00000000
 Lookup: 4 0 0 "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0" { "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1"  } ['hlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "kerning" { "kerning-1" [153,15,0] } []
+Lookup: 258 0 0 "'kern' Interletraje horizontal in Latin lookup 1" { "'kern' Interletraje horizontal in Latin lookup 1-1" [153,0,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 3 16 "'kern' Interletraje horizontal in Latin lookup 1-1"
+ 1 f
+ 5 longs
+ 12 a d q aacute
+ 29 c o s ccedilla oacute amacron
+ 18 e g eacute emacron
+ 8 i iacute
+ 33 p uniA750 uniA751 uniA752 uniA753
+ 10 r dotlessi
+ 8 u uacute
+ 3 v w
+ 1 x
+ 1 y
+ 1 z
+ 14 ntilde umacron
+ 9 udieresis
+ 7 imacron
+ 7 omacron
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -135 {} -134 {} -121 {} -64 {} -106 {} -83 {} -89 {} -111 {} -128 {} -107 {} -137 {} -33 {} -8 {} 0 {} -88 {} 0 {} -140 {} -127 {} -121 {} -82 {} -124 {} -114 {} -111 {} -163 {} -151 {} -160 {} -192 {} -35 {} -1 {} 0 {} -79 {}
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 11
+WinInfo: 0 25 12
 BeginPrivate: 0
 EndPrivate
 Grid
