@@ -3,7 +3,11 @@ Español [English](README.md)
 ![Deo gracias.](samples/f_clxxxviii_v_titulo.jpg)
 
 ## Introducción
-Recreación digital del tipo de letra usado por el impresor [Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), representante en España de la familia Iunta,  en Burgos a mediados del siglo XVI.
+Recreación digital del tipo de letra usado por el impresor 
+[Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), 
+representante en España de la 
+[familia Giunta](https://es.wikipedia.org/wiki/Giunta_(impresores)),  
+en Burgos a mediados del siglo XVI.
 
 Las muestras se han escaneado del libro
 *Enchiridion de los tiempos*
@@ -16,6 +20,8 @@ Puedes descargarlo de [aquí](fonts/Junta-Burgos-1551-Matriz.otf).
 
 ### Estilo
 El objetivo es diseñar un tipo de letra que imite el aspecto que tiene el texto de los libros impresos con letra rotunda.
+
+Las herramientas y el medio en el que se escribe influyen en la forma de las letras.
 
 Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
 

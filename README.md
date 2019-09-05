@@ -3,7 +3,11 @@
 ![Deo gracias.](samples/f_clxxxviii_v_titulo.jpg)
 
 ## Introduction
-Digital recreation of the font used by the printer [Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), who was the agent in Spain of the Iunta family in Burgos in the middle of the XVI century.
+Digital recreation of the font used by the printer 
+[Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), 
+who was the agent in Spain of the 
+[Giunta family](https://en.wikipedia.org/wiki/Giunti_(printers)) 
+in Burgos in the middle of the XVI century.
 
 The samples were scanned from the book
 *Enchiridion de los tiempos* 
@@ -19,13 +23,13 @@ The aim is the creation of a type font that imitate the style of the books print
 
 Writing tools and materials affects shape of the letters.
 
-Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
+Therefore if you write with a nib in a manuscript the shape of the strokes have different sizes.
 
-El grabador de punzones imitaba las formas del texto manuscrito pero estaba grabando los punzones de un material muy duro en un tamaño muy pequeño. La precisión era mucha para un trabajo manual, pero en los tipos pequeños se ven imperfecciones. 
+The engraver who made awls imitated the shapes of the manuscript text, but he was limited by the small proportions of the awls and its hardness. Thus the awls were *imperfects*.
 
-Con el punzón se grababa la matriz donde se fundía plomo que formaba los tipos de letra.
+With the awls were made the cast, and here the molten lead was transform into metal types.
 
-Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
+The metal types were worned out by the use.
 
 
 

@@ -1,6 +1,6 @@
 StartChar: longs_t
 Encoding: 119 64261 45
-Width: 658
+Width: 634
 VWidth: -36
 Flags: W
 VStem: 59 127<15 168.058>
@@ -29,8 +29,11 @@ SplineSet
  218 525 l 25
  335 610 l 25
  335 610 356 618 356 675 c 0
- 356 732 187 760 187 760 c 25
+ 356 701.133614908 361 736.791015625 328 754 c 28
+ 294 770.791015625 187 760 187 760 c 1
  187 760 181 149 186 118 c 0
  191 87 200 36 209 -17 c 25
 EndSplineSet
+LCarets2: 1 0
+Ligature2: "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1" s t
 EndChar
