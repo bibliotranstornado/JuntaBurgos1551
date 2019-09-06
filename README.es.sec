@@ -14,7 +14,8 @@
 		impreso por Junta en 1551.
 
 		* Descarga
-			Puedes descargarlo de [[fonts/Junta-Burgos-1551-Matriz.otf aquí]].
+			- Puedes descargarlo de [[fonts/Junta-Burgos-1551-Matriz.otf aquí]].
+			- Muestra del tipo del letra en el [[specimen/specimen.pdf specimen]].
 		* Estilo
 			El objetivo es diseñar un tipo de letra que imite el aspecto que tiene el texto de los libros impresos con letra rotunda.
 
@@ -33,9 +34,9 @@
 		- [[https://github.com/Anaphory/Jena1330 Jena1330]]
 		- [[https://ilovetypography.com/OpenType/opentype-features.html An introduction to OpenType Substitution Features]]
 		- [[https://fontforge.github.io/en-US/tutorials/editexample/ FontForge editexample]]
-	* Hitos
-		- o y n. Hecho
-		- videospan (letras que definen el estilo)
-		- minúsculas
-		- mayúsculas
-		- alternativas 
+	* Estado
+		Primera versión beta
+		- Caracteres ASCII
+		- Minúsculas y mayúsculas con tilde y macrón y eñes
+		- Ese larga, ligaturas y caracteres antiguos alternativos
+		- Kerning ajustado

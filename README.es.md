@@ -15,8 +15,8 @@ de [Alonso Venero](https://es.wikipedia.org/wiki/Alonso_Venero),
 impreso por Junta en 1551.
 
 ### Descarga
-Puedes descargarlo de [aquí](fonts/Junta-Burgos-1551-Matriz.otf).
-
+*  Puedes descargarlo de [aquí](fonts/Junta-Burgos-1551-Matriz.otf).
+*  Muestra del tipo del letra en el [specimen](specimen/specimen.pdf).
 
 ### Estilo
 El objetivo es diseñar un tipo de letra que imite el aspecto que tiene el texto de los libros impresos con letra rotunda.
@@ -40,12 +40,13 @@ Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
 *  [An introduction to OpenType Substitution Features](https://ilovetypography.com/OpenType/opentype-features.html)
 *  [FontForge editexample](https://fontforge.github.io/en-US/tutorials/editexample/)
 
-## Hitos
-*  o y n. Hecho
-*  videospan (letras que definen el estilo)
-*  minúsculas
-*  mayúsculas
-*  alternativas 
+## Estado
+Primera versión beta
+
+*  Caracteres ASCII
+*  Minúsculas y mayúsculas con tilde y macrón y eñes
+*  Ese larga, ligaturas y caracteres antiguos alternativos
+*  Kerning ajustado
 
 
 

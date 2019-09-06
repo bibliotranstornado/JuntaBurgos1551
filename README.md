@@ -15,8 +15,8 @@ from  [Alonso Venero](https://es.wikipedia.org/wiki/Alonso_Venero),
 printed by Junta in 1551.
 
 ### Download
-You can download from [here](fonts/Junta-Burgos-1551-Matriz.otf).
-
+*  You can download from [here](fonts/Junta-Burgos-1551-Matriz.otf).
+*  Font [specimen](specimen/specimen.pdf).
 
 ### Style
 The aim is the creation of a type font that imitate the style of the books printed with Rotunda Script.
@@ -40,12 +40,13 @@ The metal types were worned out by the use.
 *  [An introduction to OpenType Substitution Features](https://ilovetypography.com/OpenType/opentype-features.html)
 *  [FontForge editexample](https://fontforge.github.io/en-US/tutorials/editexample/)
 
-## Milestones
-*  o y n. Hecho
-*  videospan (letras que definen el estilo)
-*  minúsculas
-*  mayúsculas
-*  alternativas 
+## Status
+First beta version
+
+*  ASCII chars
+*  Uppercase and lowercase with acute accent and macrons, n and N with dieresis
+*  Long S, ligatures and antiques alternatives
+*  Kerning
 
 
 
