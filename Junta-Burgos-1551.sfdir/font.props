@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1567768080
+ModificationTime: 1567794499
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,7 +56,7 @@ KernClass2: 2 10 "'kern' Interletraje horizontal in Latin lookup tras j"
  82 c d g i m n o p r s ccedilla eacute iacute oacute dotlessi uniA750 uniA752 uniA753
  31 e ntilde uacute emacron omacron
  3 j z
- 31 q t v w amacron uniA751 uniA75B
+ 31 q t v w amacron uniA751 rotunda
  1 u
  8 x aacute
  1 y
@@ -70,7 +70,7 @@ KernClass2: 15 4 "'kern' Interletraje horizontal in Latin lookup antes de b"
  18 e r t x z dotlessi
  1 i
  1 j
- 1 k
+ 9 k rotunda
  1 n
  1 q
  16 aacute udieresis
@@ -117,7 +117,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 12
+WinInfo: 0 25 11
 BeginPrivate: 0
 EndPrivate
 Grid

@@ -35,6 +35,7 @@ SplineSet
  177 526 137 530 99 551 c 4
  61 572 56 608 56 608 c 5
 EndSplineSet
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1" d e
 EndChar
