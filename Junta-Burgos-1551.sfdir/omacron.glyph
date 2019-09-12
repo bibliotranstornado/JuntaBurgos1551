@@ -2,11 +2,11 @@ StartChar: omacron
 Encoding: 91 333 103
 Width: 598
 VWidth: -36
-HStem: 649 20G<203.075 222> 730 159<171.022 335.269>
-VStem: 96.2689 325
+HStem: 668 20G<207.016 225.94> 730 159<176.342 340.589>
+VStem: 101.589 325
 LayerCount: 2
 Fore
-Refer: 100 772 N 1 0 0 1 -31.7311 45 2
+Refer: 100 772 N 1 0 0 1 -26.4108 45 2
 Refer: 0 111 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

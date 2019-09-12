@@ -19,17 +19,26 @@ impreso por Junta en 1551.
 *  Muestra del tipo del letra en el [specimen](specimen/specimen.pdf).
 
 ### Estilo
-El objetivo es diseñar un tipo de letra que imite el aspecto que tiene el texto de los libros impresos con letra rotunda.
+El objetivo es diseñar un tipo de letra que imite el aspecto que 
+tiene el texto de los libros impresos con letra gótica rotunda de 
+suma o de Tortis, también llamada de calderilla.
 
-Las herramientas y el medio en el que se escribe influyen en la forma de las letras.
+Las herramientas y el medio en el que se escribe influyen en la 
+forma de las letras.
 
-Así el texto manuscrito con pluma tiene un grosor variable según el ángulo en el que se mantenía la pluma en contacto con el papel. 
+Así el texto manuscrito con pluma tiene un grosor variable según 
+el ángulo en el que se mantenía la pluma en contacto con el papel. 
 
-El grabador de punzones imitaba las formas del texto manuscrito pero estaba grabando los punzones de un material muy duro en un tamaño muy pequeño. La precisión era mucha para un trabajo manual, pero en los tipos pequeños se ven imperfecciones. 
+El grabador de punzones imitaba las formas del texto manuscrito 
+pero estaba grabando los punzones de un material muy duro en un 
+tamaño muy pequeño. La precisión era mucha para un trabajo manual, 
+pero en los tipos pequeños se ven imperfecciones. 
 
-Con el punzón se grababa la matriz donde se fundía plomo que formaba los tipos de letra.
+Con el punzón se grababa la matriz donde se fundía plomo que 
+formaba los tipos de letra.
 
-Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
+Tras escanea los textos se realizan los trazos siguiendo 
+aproximadamente la mancha que ha quedado en el papel
 
 
 
@@ -39,14 +48,17 @@ Estos tipos se utilizaban durante años sufriendo desgaste y roturas.
 *  [Jena1330](https://github.com/Anaphory/Jena1330)
 *  [An introduction to OpenType Substitution Features](https://ilovetypography.com/OpenType/opentype-features.html)
 *  [FontForge editexample](https://fontforge.github.io/en-US/tutorials/editexample/)
+*  [Alter Littera - New letters of old](http://www.alterlittera.com/index.html)
+*  Barjau, Santi; Quiney, Aitor. [El tipo Gótico Incunable de Eudald Canibell: nuevas aportaciones históricas y artísticas](http://www.brapci.inf.br/index.php/res/download/79412)
+*  [Marco del especimen](https://www.iconspng.com/clipart/ornate-curly-column-frame/ornate-curly-column-frame.svg)
 
 ## Estado
 Primera versión beta
 
 *  Caracteres ASCII
 *  Minúsculas y mayúsculas con tilde y macrón y eñes
-*  Ese larga, ligaturas y caracteres antiguos alternativos
-*  Kerning ajustado
+*  Ese larga, ligaduras y caracteres antiguos alternativos
+*  Interletraje personalizado
 
 
 

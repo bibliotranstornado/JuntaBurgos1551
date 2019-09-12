@@ -17,23 +17,34 @@
 			- You can download from [[fonts/Junta-Burgos-1551-Matriz.otf here]].
 			- Font [[specimen/specimen.pdf specimen]].
 		* Style
-			The aim is the creation of a type font that imitate the style of the books printed with Rotunda Script.
+			The aim is the creation of a type font that imitate the style of 
+			the books printed with Rotunda Script.
 
 			Writing tools and materials affects shape of the letters.
 			
-			Therefore if you write with a nib in a manuscript the shape of the strokes have different sizes.
+			Therefore if you write with a nib in a manuscript the shape of 
+			the strokes have different sizes.
 			
-			The engraver who made awls imitated the shapes of the manuscript text, but he was limited by the small proportions of the awls and its hardness. Thus the awls were ''imperfects''.
+			The engraver who made awls imitated the shapes of the manuscript 
+			text, but he was limited by the small proportions of the awls and 
+			its hardness. Thus the awls were ''imperfects''.
 
-			With the awls were made the cast, and here the molten lead was transform into metal types.
+			With the awls were made the cast, and here the molten lead was 
+			transform into metal types.
 			
 			The metal types were worned out by the use.
+
+			After scanning the pages the shape of the letters where traced approximately.
+
 	* References
 		- [[http://designwithfontforge.com/en-US/Introduction.html A book about how to create new typefaces using FontForge]]
 		- [[https://github.com/klepas/open-baskerville open-baskerville]]
 		- [[https://github.com/Anaphory/Jena1330 Jena1330]]
 		- [[https://ilovetypography.com/OpenType/opentype-features.html An introduction to OpenType Substitution Features]]
 		- [[https://fontforge.github.io/en-US/tutorials/editexample/ FontForge editexample]]
+		- [[http://www.alterlittera.com/index.html Alter Littera - New letters of old]]
+		- Barjau, Santi; Quiney, Aitor. [[http://www.brapci.inf.br/index.php/res/download/79412 El tipo Gótico Incunable de Eudald Canibell: nuevas aportaciones históricas y artísticas]]
+		- [[https://www.iconspng.com/clipart/ornate-curly-column-frame/ornate-curly-column-frame.svg Specimen's frame]]
 	* Status
 		First beta version
 		- ASCII chars

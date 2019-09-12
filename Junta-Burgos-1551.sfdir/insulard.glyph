@@ -1,8 +1,8 @@
 StartChar: insulard
 Encoding: 111 42874 21
-Width: 634
+Width: 590
 VWidth: -36
-Flags: HW
+Flags: W
 VStem: 411 157<238.82 430.546>
 LayerCount: 2
 Fore
@@ -26,5 +26,6 @@ SplineSet
  177 526 137 530 99 551 c 0
  61 572 56 608 56 608 c 1
 EndSplineSet
+Validated: 33
 Ligature2: "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1" d
 EndChar

@@ -19,17 +19,24 @@ printed by Junta in 1551.
 *  Font [specimen](specimen/specimen.pdf).
 
 ### Style
-The aim is the creation of a type font that imitate the style of the books printed with Rotunda Script.
+The aim is the creation of a type font that imitate the style of 
+the books printed with Rotunda Script.
 
 Writing tools and materials affects shape of the letters.
 
-Therefore if you write with a nib in a manuscript the shape of the strokes have different sizes.
+Therefore if you write with a nib in a manuscript the shape of 
+the strokes have different sizes.
 
-The engraver who made awls imitated the shapes of the manuscript text, but he was limited by the small proportions of the awls and its hardness. Thus the awls were *imperfects*.
+The engraver who made awls imitated the shapes of the manuscript 
+text, but he was limited by the small proportions of the awls and 
+its hardness. Thus the awls were *imperfects*.
 
-With the awls were made the cast, and here the molten lead was transform into metal types.
+With the awls were made the cast, and here the molten lead was 
+transform into metal types.
 
 The metal types were worned out by the use.
+
+After scanning the pages the shape of the letters where traced approximately.
 
 
 
@@ -39,6 +46,9 @@ The metal types were worned out by the use.
 *  [Jena1330](https://github.com/Anaphory/Jena1330)
 *  [An introduction to OpenType Substitution Features](https://ilovetypography.com/OpenType/opentype-features.html)
 *  [FontForge editexample](https://fontforge.github.io/en-US/tutorials/editexample/)
+*  [Alter Littera - New letters of old](http://www.alterlittera.com/index.html)
+*  Barjau, Santi; Quiney, Aitor. [El tipo Gótico Incunable de Eudald Canibell: nuevas aportaciones históricas y artísticas](http://www.brapci.inf.br/index.php/res/download/79412)
+*  [Specimen's frame](https://www.iconspng.com/clipart/ornate-curly-column-frame/ornate-curly-column-frame.svg)
 
 ## Status
 First beta version
