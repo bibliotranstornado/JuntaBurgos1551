@@ -3,7 +3,16 @@ Español [English](README.md)
 ![Deo gracias.](samples/f_clxxxviii_v_titulo.jpg)
 
 ## Introducción
-Recreación digital del tipo de letra usado por el impresor 
+El objetivo de este proyecto es la recreación del tipo
+de letra gótica de Tortis o letra de Calderilla que se usó 
+principalmente en Francia, Italia y España desde el periodo 
+incunable hasta mitad del siglo XVI.
+
+Es el tipo de letra con el que se imprimió el Lazarillo de Tormes,
+La Celestina, Tirant lo Blanch y prácticamente cualquier libro de la 
+época.
+
+Vamos a recrear digitalmente el tipo de letra usada por el impresor 
 [Juan de Junta](http://dbe.rah.es/biografias/49373/juan-de-junta), 
 representante en España de la 
 [familia Giunta](https://es.wikipedia.org/wiki/Giunta_(impresores)),  
@@ -37,7 +46,7 @@ pero en los tipos pequeños se ven imperfecciones.
 Con el punzón se grababa la matriz donde se fundía plomo que 
 formaba los tipos de letra.
 
-Tras escanea los textos se realizan los trazos siguiendo 
+Tras escanear los textos se realizan los trazos siguiendo 
 aproximadamente la mancha que ha quedado en el papel
 
 

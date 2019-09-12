@@ -36,7 +36,8 @@ transform into metal types.
 
 The metal types were worned out by the use.
 
-After scanning the pages the shape of the letters where traced approximately.
+After scanning the pages the shape of the letters where traced 
+approximately.
 
 
 
