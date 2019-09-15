@@ -1,6 +1,6 @@
 SplineFontDB: 3.0
-FontName: Junta-Burgos-1551-Calderilla
-FullName: Junta Burgos 1551 Calderilla
+FontName: Junta-Burgos-1551
+FullName: Junta Burgos 1551
 FamilyName: Junta Burgos 1551
 Weight: Regular
 Copyright: Copyright (c) 2019, Bibliotranstornado
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1568296924
+ModificationTime: 1568538420
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -111,7 +111,7 @@ ContextSub2: coverage "'calt' Alternativas contextuales in Latin lookup 4-2" 0 0
 EndFPST
 ContextSub2: class "'calt' Alternativas contextuales in Latin lookup 4-1" 0 0 0 0
 EndFPST
-LangName: 1033 "" "" "" "BibliotranstornadoJuntaBurgos1551Calderilla" "" "" "" "" "" "" "" "" "http://bibliotranstornado.blogspot.com/" "GPL 3" "http://www.gnu.org/licenses/gpl-3.0.html"
+LangName: 1033 "" "" "" "BibliotranstornadoJuntaBurgos1551" "" "" "" "" "" "" "" "" "http://bibliotranstornado.blogspot.com/" "GPL 3" "http://www.gnu.org/licenses/gpl-3.0.html"
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
