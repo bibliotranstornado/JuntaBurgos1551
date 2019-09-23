@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Junta-Burgos-1551-Matriz
-FullName: Junta-Burgos-1551
-FamilyName: Junta-Burgos-1551
+FontName: Junta-Burgos-1551
+FullName: Junta Burgos 1551
+FamilyName: Junta Burgos 1551
 Weight: Regular
 Copyright: Copyright (c) 2019, Bibliotranstornado
 UComments: "2019-8-15: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1567768080
+ModificationTime: 1568538420
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,10 +53,10 @@ MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 2 10 "'kern' Interletraje horizontal in Latin lookup tras j"
  1 j
- 82 c d g i m n o p r s ccedilla eacute iacute oacute dotlessi uniA750 uniA752 uniA753
+ 78 c d g i m n o p r s ccedilla eacute iacute oacute dotlessi uniA750 pre uniA753
  31 e ntilde uacute emacron omacron
  3 j z
- 31 q t v w amacron uniA751 uniA75B
+ 27 q t v w amacron per rotunda
  1 u
  8 x aacute
  1 y
@@ -65,12 +65,12 @@ KernClass2: 2 10 "'kern' Interletraje horizontal in Latin lookup tras j"
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -113 {} -117 {} -120 {} -107 {} -124 {} -154 {} -128 {} -27 {} -28 {}
 KernClass2: 15 4 "'kern' Interletraje horizontal in Latin lookup antes de b"
  3 a m
- 62 b h p s u v w y oacute omacron uniA750 uniA751 uniA752 uniA753
+ 54 b h p s u v w y oacute omacron uniA750 per pre uniA753
  14 c g o ccedilla
  18 e r t x z dotlessi
  1 i
  1 j
- 1 k
+ 9 k rotunda
  1 n
  1 q
  16 aacute udieresis
@@ -90,7 +90,7 @@ KernClass2: 4 16 "'kern' Interletraje horizontal in Latin lookup f y s larga"
  29 c o s ccedilla oacute amacron
  18 e g eacute emacron
  8 i iacute
- 33 p uniA750 uniA751 uniA752 uniA753
+ 25 p uniA750 per pre uniA753
  10 r dotlessi
  8 u uacute
  3 v w
@@ -111,18 +111,19 @@ ContextSub2: coverage "'calt' Alternativas contextuales in Latin lookup 4-2" 0 0
 EndFPST
 ContextSub2: class "'calt' Alternativas contextuales in Latin lookup 4-1" 0 0 0 0
 EndFPST
+LangName: 1033 "" "" "" "BibliotranstornadoJuntaBurgos1551" "" "" "" "" "" "" "" "" "http://bibliotranstornado.blogspot.com/" "GPL 3" "http://www.gnu.org/licenses/gpl-3.0.html"
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 12
+WinInfo: 0 14 11
 BeginPrivate: 0
 EndPrivate
 Grid
--36 -35 m 29
- -36 -35 1310 -36 1310 -35 c 1028
+-36 -35 m 25
+ -36 -35 1310 -36 1310 -35 c 1024
 NamedP: "Sub uppercase"
 -980 688 m 0
  400 688 l 0

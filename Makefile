@@ -10,7 +10,7 @@ specimen/specimen.pdf: specimen/specimen.svg
 	convert $^ $@
 
 install: 
-	cp fonts/Junta-Burgos-1551-Matriz.otf ~/.local/share/fonts
+	cp fonts/Junta-Burgos-1551-Calderilla.otf ~/.local/share/fonts
 uninstall: 
-	rm ~/.local/share/fonts/Junta-Burgos-1551-Matriz.otf 
+	rm ~/.local/share/fonts/Junta-Burgos-1551-Calderilla.otf 
 
