@@ -1,6 +1,6 @@
 StartChar: hyphen
 Encoding: 6 45 19
-Width: 358
+Width: 340
 VWidth: -36
 Flags: W
 VStem: 0 311
@@ -35,5 +35,4 @@ SplineSet
  -2 120 -2 123 -2 126 c 0
  -2 146 29 182 29 182 c 1
 EndSplineSet
-Validated: 1
 EndChar
