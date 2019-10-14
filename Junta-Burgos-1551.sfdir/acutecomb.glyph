@@ -2,14 +2,16 @@ StartChar: acutecomb
 Encoding: 94 769 101
 Width: 0
 VWidth: -36
+HStem: 675 110
+VStem: 146 132
 LayerCount: 2
 Fore
 SplineSet
 146 697 m 1
+ 267 785 l 1
+ 278 768 l 1
  160 675 l 1
- 278 768 l 5
- 267 785 l 5
  146 697 l 1
 EndSplineSet
-Validated: 9
+Validated: 1
 EndChar

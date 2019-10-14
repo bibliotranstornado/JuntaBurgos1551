@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Junta-Burgos-1551
+FontName: JuntaBurgos1551
 FullName: Junta Burgos 1551
-FamilyName: Junta Burgos 1551
+FamilyName: Rotunda
 Weight: Regular
 Copyright: Copyright (c) 2019, Bibliotranstornado
 UComments: "2019-8-15: Created with FontForge (http://fontforge.org)"
@@ -15,13 +15,13 @@ InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 164 777365468 3011712]
+XUID: [1021 164 777365468 11577859]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1568745059
+ModificationTime: 1570543450
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -111,15 +111,16 @@ ContextSub2: coverage "'calt' Alternativas contextuales in Latin lookup 4-2" 0 0
 EndFPST
 ContextSub2: class "'calt' Alternativas contextuales in Latin lookup 4-1" 0 0 0 0
 EndFPST
-LangName: 1033 "" "" "" "BibliotranstornadoJuntaBurgos1551" "" "" "" "" "" "" "" "" "http://bibliotranstornado.blogspot.com/" "GPL 3" "http://www.gnu.org/licenses/gpl-3.0.html"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "http://bibliotranstornado.blogspot.com/" "GPL 3" "http://www.gnu.org/licenses/gpl-3.0.html"
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 14 11
-BeginPrivate: 0
+WinInfo: 0 12 13
+BeginPrivate: 1
+BlueValues 31 [-65 8 630 682 685 689 824 872]
 EndPrivate
 Grid
 -36 -35 m 25

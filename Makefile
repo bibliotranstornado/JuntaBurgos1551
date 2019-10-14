@@ -13,4 +13,7 @@ install:
 	cp fonts/Junta-Burgos-1551.otf ~/.local/share/fonts
 uninstall: 
 	rm ~/.local/share/fonts/Junta-Burgos-1551.otf 
+rebuild_font_cache:
+	fc-cache -f -v
+	fc-list | grep "Junta"
 
