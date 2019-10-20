@@ -2,8 +2,8 @@ StartChar: euro
 Encoding: 135 8364 135
 Width: 571
 VWidth: -36
-Flags: HW
-HStem: 8 112<345.275 433> 144 114<191 289> 287 114<192 290> 659 20G<397.5 431.265>
+Flags: W
+HStem: 8 112<345.275 433> 659 20G<397.5 431.265>
 LayerCount: 2
 Fore
 SplineSet

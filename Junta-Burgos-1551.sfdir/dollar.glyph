@@ -2,9 +2,9 @@ StartChar: dollar
 Encoding: 136 36 136
 Width: 551
 VWidth: -36
-Flags: HW
-HStem: -60 21G<237.809 267.207> 0 107<171.5 328.396> 577 116<172.5 354>
-VStem: -4 76<319.5 480.5> 186 87<138.776 344 346 512.834>
+Flags: W
+HStem: -60 21G<237.885 267.207>
+VStem: -4 76<319.5 479> 185 90<152 275 360 522.772>
 LayerCount: 2
 Fore
 SplineSet

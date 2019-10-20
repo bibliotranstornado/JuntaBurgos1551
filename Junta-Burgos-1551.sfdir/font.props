@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
 FontName: JuntaBurgos1551
-FullName: Junta Burgos 1551
-FamilyName: Rotunda
+FullName: Rotunda Junta Burgos 1551
+FamilyName: Rotunda Junta Burgos 1551
 Weight: Regular
 Copyright: Copyright (c) 2019, Bibliotranstornado
 UComments: "2019-8-15: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565874098
-ModificationTime: 1571072256
+ModificationTime: 1571593847
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
