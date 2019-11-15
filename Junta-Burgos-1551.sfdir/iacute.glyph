@@ -1,12 +1,12 @@
 StartChar: iacute
-Encoding: 82 237 105
+Encoding: 82 237 104
 Width: 286
 VWidth: -36
 HStem: 730 110
 VStem: 38 126<144 406.834> 109.666 132
 LayerCount: 2
 Fore
-Refer: 101 769 N 1 0 0 1 -36.3339 55 2
-Refer: 106 305 N 1 0 0 1 0 0 3
+Refer: 100 769 N 1 0 0 1 -36.3339 55 2
+Refer: 105 305 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

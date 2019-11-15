@@ -1,12 +1,12 @@
 StartChar: oacute
-Encoding: 84 243 107
+Encoding: 84 243 106
 Width: 598
 VWidth: -36
 HStem: -6 103<199 351.394> 668 20G<207.146 226> 730 110
 VStem: -1 109<258.5 425.561> 231.2 132 429 137<235.219 414.271>
 LayerCount: 2
 Fore
-Refer: 101 769 N 1 0 0 1 85.2001 55 2
+Refer: 100 769 N 1 0 0 1 85.2001 55 2
 Refer: 0 111 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

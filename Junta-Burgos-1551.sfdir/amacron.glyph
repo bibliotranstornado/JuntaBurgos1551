@@ -1,5 +1,5 @@
 StartChar: amacron
-Encoding: 87 257 110
+Encoding: 87 257 109
 Width: 504
 VWidth: -36
 Flags: W
@@ -7,7 +7,7 @@ HStem: 668 20G<267.503 309> 730 159<250.123 414.37>
 VStem: 16 39<335.464 466.553> 175.37 325 301 150<175 343> 311 144<293.944 367 415 540>
 LayerCount: 2
 Fore
-Refer: 100 772 N 1 0 0 1 47.3696 45 2
+Refer: 99 772 N 1 0 0 1 47.3696 45 2
 Refer: 2 97 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

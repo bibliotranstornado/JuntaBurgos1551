@@ -1,5 +1,5 @@
 StartChar: uacute
-Encoding: 85 250 108
+Encoding: 85 250 107
 Width: 524
 VWidth: -36
 Flags: W
@@ -7,7 +7,7 @@ HStem: 654 20G<52.5 90.5 324.492 384.492> 730 110
 VStem: 11 144<267.997 612> 306 141<189 526.777> 361.569 132
 LayerCount: 2
 Fore
-Refer: 101 769 N 1 0 0 1 215.569 55 2
+Refer: 100 769 N 1 0 0 1 215.569 55 2
 Refer: 24 117 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

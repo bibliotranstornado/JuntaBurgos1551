@@ -1,3 +1,4 @@
+font_name=RotundaJuntaBurgos1551.otf
 all: README.md README.es.md specimen/specimen.pdf
 
 README.md: README.sec
@@ -10,9 +11,9 @@ specimen/specimen.pdf: specimen/specimen.svg
 	convert $^ $@
 
 install: 
-	cp fonts/Junta-Burgos-1551.otf ~/.local/share/fonts
+	cp fonts/${font_name} ~/.local/share/fonts
 uninstall: 
-	rm ~/.local/share/fonts/Junta-Burgos-1551.otf 
+	rm ~/.local/share/fonts/${font_name}
 rebuild_font_cache:
 	fc-cache -f -v
 	fc-list | grep "Junta"

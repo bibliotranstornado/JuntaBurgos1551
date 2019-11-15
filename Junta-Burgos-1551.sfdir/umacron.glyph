@@ -1,5 +1,5 @@
 StartChar: umacron
-Encoding: 92 363 113
+Encoding: 92 363 112
 Width: 524
 VWidth: -36
 Flags: W
@@ -7,7 +7,7 @@ HStem: 654 20G<52.5 90.5 324.492 384.492> 732 159<144.711 308.958>
 VStem: 11 144<267.997 612> 69.9578 325 306 141<189 526.777>
 LayerCount: 2
 Fore
-Refer: 100 772 S 1 0 0 1 -58.0422 47 2
+Refer: 99 772 S 1 0 0 1 -58.0422 47 2
 Refer: 24 117 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

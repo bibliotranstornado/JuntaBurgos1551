@@ -1,5 +1,5 @@
-StartChar: ssharp
-Encoding: 78 223 47
+StartChar: double_long_s
+Encoding: 139 -1 138
 Width: 693
 VWidth: -36
 Flags: W
@@ -43,5 +43,5 @@ SplineSet
  47 174 l 25
  37 448 l 25
 EndSplineSet
-Validated: 1
+Ligature2: "'hlig' Ligaduras hist+APMA-ricas in Latin lookup 0-1" s s
 EndChar
